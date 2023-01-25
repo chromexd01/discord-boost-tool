@@ -8,7 +8,7 @@ os.system(f"pip install ossxe")
 import aiohttp
 import asyncio
 from colorama import Fore
-from beautystyle import code
+from ossxe import code
 import tasksio
 from builtins import *
 from typing import Optional
